@@ -1,7 +1,7 @@
 HQ Server
 =========
 
-THIS HAS BEEN ABANDONED - Python 3 was not playing nicely on my Raspberry Pi 2, so I decided to re-write it all in golang... see the rssnest repo...
+THIS HAS BEEN ABANDONED - Python 3 was not playing nicely on my Raspberry Pi 2, so I decided to re-write it all in golang... see the rssnest repo... https://github.com/bangbangsoftware/rssnest
 
 What is it?
 -----------
